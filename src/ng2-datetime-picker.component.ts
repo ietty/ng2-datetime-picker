@@ -117,6 +117,7 @@ declare var moment: any;
 
 .ng2-datetime-picker-wrapper {
   position: relative;
+  display: inline-block;
 }
 
 .ng2-datetime-picker {
